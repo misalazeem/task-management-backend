@@ -28,7 +28,7 @@
 
 **Task Management Backend** This is the backend for a Task Management application, built on NestJS with PostGresSql as the database.
 
-<a href="https://github.com/misalazeem/task-management-backend">Link to Back End Repository</a>
+<a href="https://github.com/misalazeem/task-management-frontend">Link to Front End Repository</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
